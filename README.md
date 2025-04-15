@@ -1,7 +1,9 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-Resumo do Laboratório: Benefícios da Nuvem
+Resumo do Laboratório
+
+Benefícios da Nuvem
 =================
 <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Azure.svg" width="80" style="max-width: 100%;">
 
@@ -17,3 +19,12 @@ Resumo do Laboratório: Benefícios da Nuvem
 </ul>
 
 <p>Primeiros passos no curso, alguns tópicos vou rever com mais calma pra fixar o conteúdo.</p>
+
+Tipos de Serviço de Nuvem
+=================
+
+<ul>
+    <li><strong>IaaS:</strong> InfraEstrutura como serviço, o cliente tem maior poder de configuração e customização, cabe a ele cuidar da manutenção e gerenciar os recursos, a responsabilidade é maior.</li>
+    <li><strong>PaaS:</strong> Plataforma como serviço, nesse modelo o cliente não precisa se preocupar com a máquina(SO), exemplo ele precisa de um banco de dados, sua resposanbilidade vai ser um pouco menor, em questão de responsabilidade seria intermediario, pois parte é a Microsoft que cuida parte é o cliente.</li>
+    <li><strong>Saas:</strong> Software como serviço, serviço de aplicativo como assinatura, exemplo Microsoft 365, o cliente tem menor resposanbilidade nesse modelo.</li>
+</ul>
